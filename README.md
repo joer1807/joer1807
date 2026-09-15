@@ -1,4 +1,4 @@
-<img width="1000" height="600" alt="autumn" src="https://github.com/user-attachments/assets/f65ebcc8-05b5-4514-acfe-e75e7e6b020d" />
+<img width="500" height="400" alt="autumn" src="https://github.com/user-attachments/assets/f65ebcc8-05b5-4514-acfe-e75e7e6b020d" />
 
 
 Hej, jag heter Johanna Lilja.  
